@@ -1,0 +1,9 @@
+## YAML Template.
+---
+name: ResetTime
+main: ResetTime.ClockUse
+version: 0.1.0
+authors:
+    - Corvin Lange
+description: Change the time with using a clock
+api-version: 1.18
